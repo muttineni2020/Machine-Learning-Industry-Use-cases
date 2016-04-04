@@ -1,0 +1,46 @@
+		
+
+		@Published 27th March 2019, Revised 28th March 2019
+		SCRM_timeSeries_2018_65L.csv
+        	Version 1.0, March 2019
+		Corresponding author- Heerok Banerjee (heerok.banerjee@hotmail.com)
+		Contributors- V. Ganapathy, G. Saparia, P. Garg, V. M. Shenbagaraman 
+		Affiliated by- SRM Institute of Science & Technology, India
+			
+                http://www.heerokbanerjee.in/research
+
+	Notice
+
+	This dataset is published for academic purposes only with restricted 
+	usage after careful validation of norms and permissions as presented
+	by the licenser. This document enumerates the obligations of the user 
+	while working with the data. So, read the terms and conditions of this 
+	license agreement before extracting, duplicating or presenting the 
+	contents of the dataset to any third-party organization or event.
+
+	TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+	You may reproduce and distribute copies of the dataset or derivative
+	works thereof in any medium, with or without modifications, and in source 
+	or object forms, provided that you meet the following conditions:
+
+      	(a) You must give any other recipients of the work or
+          	derivative works a copy of this License; and
+
+      	(b) You must cause any modified data to carry prominent notices
+          	stating that you changed the data; and
+
+      	(c) You must retain, in the source form of any derivative works
+          	that you distribute, all copyright, patent, trademark, and
+          	attribution notices from the source form of the Work,
+          	excluding those notices that do not pertain to any part of
+          	the derivative works; and
+
+      	You may add your own copyright statement to your modifications and
+      	may provide additional or different license terms and conditions
+      	for use, reproduction, or distribution of your modifications, or
+      	for any such derivative works as a whole, provided you use,
+      	reproduction, and distribution of the Work otherwise complies with
+      	the conditions stated in this License.
+
+
