@@ -5,7 +5,7 @@ Retail Analytics Space
 
 My repository has two sub repos
 -------------------------------
-  **Classification** - Can have different use cases in retail to classify data points
+  **Classification** - Can have different use cases in retail to classify data points  
   **Regression** - Can have different use cases in retail to apply regression analysis
 
 Currently working on Supervised problems, may have unsupervised problems in near future.
