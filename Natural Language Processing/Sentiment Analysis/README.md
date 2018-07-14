@@ -21,5 +21,7 @@ I highly recommend that you download [the Python 3.7 version](https://www.anacon
 ### 2. Download the Jupyter Notebooks  
 Clone or download this repo, so you have access to all the Jupyter Notebooks (.ipynb extension) in the tutorial.  
 
+##### *** Future enhancements: Word prediction, Chat bot. ***
+
 
 
